@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Crimson-Ox 👋
 
-<!--
-**Crimson-Ox/Crimson-Ox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡 Smart Contract Developer in Training
+I am currently deep-diving into Web3 development and security to build the future of decentralization.
 
-Here are some ideas to get you started:
+- 🔭 *Current Focus:* Completing the [Cyfrin Updraft](https://updraft.cyfrin.io) Blockchain Basics course.
+- 🎓 *Learning:* Solidity, Foundry, and the History of Blockchain.
+- ⚡ *Goal:* Conducting smart contract audits and building secure dApps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack (Learning)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+---
+"Building the future of decentralization, one block at a time."
